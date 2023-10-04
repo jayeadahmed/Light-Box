@@ -1,0 +1,7 @@
+
+//jq
+$(document).ready(function(){
+
+
+
+});
